@@ -5,7 +5,7 @@
 
 
 <h3 > 👨‍💻 About Me </h3>
-Full Stack Developer with over 2 years of experience building secure and scalable projects. Focused on technologies such as Angular.js, React.js, Node.js, FastAPI, Python, and JavaScript.
+Full Stack Developer with over 2 years of experience building secure and scalable projects. Focused on technologies such as Angular.js, React.js, Node.js, FastAPI, Python, JavaScript and TypeScript.
 In addition, I have worked in areas such as process automation and data science, using Python and the Pandas library.
 
 <br>
