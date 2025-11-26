@@ -4,9 +4,15 @@
 
 <br><br>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2000&pause=800&color=FF2222&center=true&vCenter=true&width=850&lines=Fullstack+Developer;Process+Automation;Data+Scientist;IT+Infrastructure" alt="Title">
 </div>
+
+<br><br>
+
+---
+
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> About Me
 
@@ -14,6 +20,10 @@
 - 🌎 Living in **Colombia**  
 - 🚀 Passionate about **continuous learning** and **innovation**  
 
+
+---
+
+<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -47,6 +57,7 @@
   </a>
 </p>
 
+---
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="50px"> Statistics
 
