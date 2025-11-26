@@ -1,44 +1,62 @@
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Brian Pareja 👋
-=====================================================================================================================================
-
-<h3 > Full Stack Developer | Process Automation | Data Science | IT Infrastructure.  </h3>
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Hi, I'm Brian Pareja. Welcome to my repository 👋
 
 
-<h3 > 👨‍💻 About Me </h3>
-Full Stack Developer with over 2 years of experience, compromised with continuous improvement and the creation of efficient, scalable, and innovative solutions. I have experience in software development, process automation, data engineering, and IT infrastructure.
-<br>
-<h3 > 🛠️ Technologies</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html" height="40"  />
-<img src="https://skillicons.dev/icons?i=css" height="40"  />
-<img src="https://skillicons.dev/icons?i=js" height="40"  />
-<img src="https://skillicons.dev/icons?i=ts" height="40"  />
-<img src="https://skillicons.dev/icons?i=angular" height="40" />
-<img src="https://skillicons.dev/icons?i=react" height="40" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-<img src="https://skillicons.dev/icons?i=express" height="40" />
-<img src="https://skillicons.dev/icons?i=python" height="40" />
-<img src="https://skillicons.dev/icons?i=fastapi" height="40" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-<img src="https://skillicons.dev/icons?i=ansible" height="40" />
-<img src="https://skillicons.dev/icons?i=azure" height="40" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
-<img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
-<img src="https://skillicons.dev/icons?i=figma" height="40" />
-<img src="https://skillicons.dev/icons?i=gcp" height="40" />
-<img src="https://skillicons.dev/icons?i=git" height="40" />
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-<img src="https://skillicons.dev/icons?i=npm" height="40" />
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2000&pause=800&color=FF2222&center=true&vCenter=true&width=850&lines=Fullstack+Developer;Process+Automation;Data+Scientist;IT+Infrastructure" alt="Title">
+</div>
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> About Me
+
+- 👨‍💻 Software Engineer  
+- 🌎 Living in **Colombia**  
+- 🚀 Passionate about **continuous learning** and **innovation**  
 
 
-</p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-### Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/brian-pareja-391549273/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py&perline=5" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,fastapi&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,ansible,gcp&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,cloudflare,figma,github,npm&perline=5" />
+  </a>
+</p>
+
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="50px"> Statistics
+
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Brian-3112&theme=algolia&background=0d1117&hide_border=true" />
+</div>
+
+<div align="center">
+  <strong>Junior</strong> experience but <strong>Senior</strong> knowledge
+</div>
+
+
